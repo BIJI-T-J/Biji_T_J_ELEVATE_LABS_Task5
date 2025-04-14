@@ -9,4 +9,5 @@ In this project we analyse employee satisfaction survey data and find insights t
 ### STEP 3: Exploratory data analysis
 * Through charts and graphs we analysed and found some useful insights from data
 ### STEP 4: Outlier and correlation detectio
-* We analysed boxplot for continuous nmeric columns and created heatmap for correlation finding 
+* We analysed boxplot for continuous nmeric columns and created heatmap for correlation finding
+## More details in Task5_EDA_report.pdf
